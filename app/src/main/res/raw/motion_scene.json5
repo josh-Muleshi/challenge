@@ -26,11 +26,11 @@
     },
     end: {
       profile_pic: {
-        width: 350,
-        height: 350,
+        width: 150,
+        height: 150,
         start: ['parent', 'start'],
         end: ['parent', 'end'],
-        top: ['parent', 'top'],
+        top: ['parent', 'top', 16],
         custom: {
           background: '#FFFFFF'
         }
