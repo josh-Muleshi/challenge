@@ -23,7 +23,7 @@ import cd.wayupdev.challenger.ui.theme.Black_ic
 fun SplashScreen(modifier: Modifier = Modifier) {
     Box(modifier = modifier.fillMaxSize()){
         Image(
-            painter = painterResource(id = R.drawable.ic_splash2),
+            painter = painterResource(id = R.drawable.ic_splash5),
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
             contentScale = ContentScale.Crop
